@@ -1,0 +1,17 @@
+body {
+   text-align: center;
+}
+
+.friends {
+   background: #342098;
+   color: #fff;
+   width: 20%;
+   margin: 0 auto;
+   border-radius: 10px;
+   padding-bottom: 15px;
+   padding-top: 5px;
+   display: inline-block;
+
+   margin: 10px 10px;
+
+}
